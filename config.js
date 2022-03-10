@@ -40,7 +40,7 @@ const config = {
     title: 'Gatsby Gitbook Boilerplate | Hasura',
     description: 'Documentation built with mdx.',
     ogImage: null,
-    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
+    docsLocation: 'https://github.com/lukejandrews/portal-/tree/master/content',
     favicon: 'https://www.10xbanking.com/hubfs/Logos/10xbanking-logo-1.svg',
   },
   pwa: {
